@@ -1,0 +1,29 @@
+/*
+* Linda Walsh
+* Due Date
+* Project Name and Description
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body {
+    background-color: lightgoldenrodyellow;
+    font-size: 125%;
+    
+}
+
+.mainheading { text-align: center;}
+#plantationFigure {float:left;}
+#myrtlesplantation {height: 300px; float: center;}
+#intro { text-align: center;}
+#plantationcaption {font-size: 80%;}
+#map {height: 300px;}
+#mapcaption { font-size: 80%}
+#bedroom { height: 300px; }
+#bedroomfig { font-size: 80%; float: right;}
